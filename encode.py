@@ -1,3 +1,10 @@
+'''
+|￣￣￣￣￣￣￣￣￣￣￣|
+| code by Barakadax  |
+|＿＿＿＿＿＿＿＿＿＿＿|
+(\__/) | |
+(•ㅅ•) | |
+/ 　 づ'''
 import os
 from PIL import Image
 
